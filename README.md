@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=Ep_rEp2BJW4&t=21s
 - Multiple Accounts
 
 ## Preview
-![Picture]([https://i.ibb.co/SvsPwrD/Screenshot-525.png](https://i.ibb.co/KwK0xC7/images-2.jpg))
+![Picture]([https://i.ibb.co/KwK0xC7/images-2.jpg])
 
 ## Usage
 1. Run "NеwInstUI".
